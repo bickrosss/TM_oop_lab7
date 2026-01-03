@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import math
-from sum_series import Series
+from task.sum_series import Series
 
 def test_term():
     """Тест вычисления членов ряда."""
